@@ -2,4 +2,4 @@ Hello World!
 Gunjan this side.
 I work as developer in ThoughtWorks.
 I had recently joined in December.
-At present I am doing training.
+At present I am doing training and learning git concepts
